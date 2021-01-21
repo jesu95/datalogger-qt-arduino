@@ -6,8 +6,8 @@ be adapted for sensors of all kinds of applications.
 
 ### Developed in:
 <p>
-<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/datalogger-qt-arduino/main/img/arduino.svg">
-<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/datalogger-qt-arduino/main/img/qt-logo.jpg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/datalogger-qt-arduino/master/img/arduino.svg">
+<img width="30" height="30" src="https://raw.githubusercontent.com/jesu95/datalogger-qt-arduino/master/img/qt-logo.jpg">
 </p>
 
 ### Authors:
